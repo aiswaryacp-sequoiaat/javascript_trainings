@@ -1,0 +1,2 @@
+# javascript_trainings
+Repository for javascript_trainings
